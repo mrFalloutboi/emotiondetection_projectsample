@@ -1,0 +1,2 @@
+# emotion_detection_project_sample
+emotion_detection_project_sample dedicated for COURSERA exam modules
