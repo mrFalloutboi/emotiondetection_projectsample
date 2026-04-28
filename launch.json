@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Emotion Detector",
+            "type": "python",
+            "request": "launch",
+            "program": "C:\\Users\\Dell\\OneDrive\\Desktop\\emotiondetector_project for cousera\\emotion_detector.py"
+        }
+    ]
+}
