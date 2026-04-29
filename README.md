@@ -1,2 +1,3 @@
 # emotion_detection_project_sample
-emotion_detection_project_sample dedicated for COURSERA exam modules
+Uploaded tasks as instructed
+missing or un-uploaded ones were stated/solved in exam
